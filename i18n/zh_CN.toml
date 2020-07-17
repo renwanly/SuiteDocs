@@ -1,0 +1,141 @@
+[suitedocs-title]
+other= "SuiteCRM 文档站点"
+
+[navigation] 
+other="导航"
+
+[Search-placeholder]
+other = "搜索..."
+
+[Clear-History]
+other = "全部标注为未读"
+
+[Attachments-label]
+other = "附件"
+
+[title-404]
+other = "错误"
+
+[message-404]
+other = "糟糕！看来此页面不存在 ¯\\_(ツ)_/¯."
+
+[Go-to-homepage]
+other = "转至首页"
+
+[Edit-this-page]
+other = "编辑本页"
+
+[Shortcuts-Title]
+other = "更多"
+
+[Expand-title]
+other = "展开…"
+
+[Issue-for-page]
+other = "报告本页的问题"
+
+[Issue-for-page-short]
+other = "问题"
+
+[Documentation]
+other = "文档"
+
+[Guides]
+other = "指南"
+
+[User]
+other = "用户"
+
+[Developer]
+other = "开发"
+
+[Administrator]
+other = "系统管理员"
+
+[Admin-SHORT]
+other = "管理员"
+
+[Community]
+other = "社区"
+
+[TechnicalBlog]
+other = "技术博客"
+
+[FromTechnicalBlog]
+other = "自我们的技术博客"
+
+[LatestPosts]
+other = "最新帖子"
+
+[GettingStarted]
+other = "入门"
+
+[Installing]
+other = "正在安装"
+
+[Upgrading]
+other = "正在升级"
+
+[An-existing-installation]
+other = " 现有的SuiteCRM安装"
+
+[Add-features-with]
+other = "添加如下功能 "
+
+[3rdPartyAdd-Ons]
+other ="第三方组件"
+
+[Using-SuiteCRM]
+other = "正在使用SuiteCRM"
+
+[Learn-the]
+other = "学习"
+
+[UserInterface]
+other = "用户界面"
+
+[Understand-the]
+other = "理解"
+
+[CoreModules]
+other = "核心模块"
+
+[Its-open-source]
+other = "它是开源且"
+
+[Developers]
+other = "开发者"
+
+[Customize-all-the-code]
+other = "自定义所有代码！"
+
+[Contribute]
+other = "贡献"
+
+[Learn-how-to]
+other = "学习如何"
+
+[Edit-a-page]
+other = "编辑页面"
+
+[In-this-site]
+other = "在本站"
+
+[Report-an]
+other = "报告一个"
+
+[Issue]
+other = "问题"
+
+[About-a-page]
+other = "关于一个页面"
+
+[Code]
+other = "代码"
+
+[RecentlyEdited]
+other = "最近编辑"
+
+[DocumentationPages]
+other = "文档页面"
+
